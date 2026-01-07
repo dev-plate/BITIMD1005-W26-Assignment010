@@ -1,4 +1,4 @@
-# BITIMD1005-W26-Assignment010# Assignment 01
+# Assignment 01
 
 **Course Title:** Web Development
 
