@@ -118,7 +118,7 @@ Your report must meet the following requirements:
 - **Submission:** One document via Brightspace before the deadline
 - **Cover page must include:**
   - Assignment title: "Assignment 1: Website Design for [Client Name]"
-  - Course ID & section (IMD1005A or IMD1005B)
+  - Course ID & section (IMD1005-010 or IMD1005-020)
   - Your name
   - Your student number
 - Clearly label all sections
